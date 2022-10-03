@@ -1,4 +1,4 @@
-name: on-release
+name: on-pr
 
 on:
   pull_request:
